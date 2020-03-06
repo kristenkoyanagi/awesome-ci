@@ -29,8 +29,8 @@ There is a
 [similar](https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software)
 comparison on Wikipedia.
 
-| # | Name | Description | Features | Supported repositories | Documentation | Price | Stars | # of Contributers | Github Page | Hostable? |Notes |
-|---|------|:-------------:|:-----------:|:-------------:|:-----:|:---------:|:---:| :---:| :---------:| :---------:| :---:| :-----------:|
+| # | Name | Description | Features | Supported repositories | Documentation | Price | Stars | # of Contributers | Github Page | Hostable? | Notes |
+|---|:------:|:-------------:|:-----------:|:-------------:|:-----:|:---------:|:---:| :---:|:---------:|:---------:|:---:|:-----------:|
 | 1 |[Abstruse CI](https://github.com/bleenco/abstruse) | Self-Hosted, Open-Source CI Platform. Based on NodeJS and Docker. | Languages: everything that can be installed on Linux | GitHub, GitLab, BitBucket, Gogs | [Documentation](https://github.com/bleenco/abstruse/tree/master/docs) | [Open Source](https://abstruse.bleenco.io) | [![Stars](https://img.shields.io/github/stars/bleenco/abstruse.svg)](https://github.com/bleenco/abstruse) | 9 | [Abtruse](https://github.com/bleenco/abstruse) | 
 | 2 |[Agola](https://agola.io) | Self-Hosted, Open Source CI/CD Platform | Languages: everything | GitHub, GitLab, Gitea | [Documentation](https://agola.io/doc/) | [Open Source](https://github.com/agola-io/agola) | 497 | 5 | [Agola](https://github.com/agola-io/agola) | 
 | 3 |[App Center](https://appcenter.ms/signup?utm_source=GitHub&utm_medium=Azure) | CI Platform. It connects with Hockeyapp where you can store installers and send their by email | Compatible with Android, iOS, Xamarin, React Native, Unity, Cordova, macOS, tvOS | GitHub, BitBucket, VSTS | [Documentation](https://docs.microsoft.com/en-us/appcenter/) | [Free with limitations](https://appcenter.ms/#pricing) | 584 | 22 | [AppCenter](https://github.com/microsoft/appcenter) |
